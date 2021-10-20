@@ -1,7 +1,7 @@
 ## Hello! I'm Mrudini 👋
 
 
-🔭 I’m currently working on my personal website and a fun sudoko game.
+🔭 I’m currently working on my personal website and a organization website for GryphHacks for the University of Guelph's School of Computer Science.
 
 🌱 I’m currently a second year Computer Science student at the University of Guelph. 
 

@@ -1,5 +1,4 @@
-## Hello! I'm Mrudini 👋
-
+## Hello! I'm Mrudini 👋🏼
 
 🔭 I’m currently working on some personal projects. I am open to working on technical projects with others as well!
 

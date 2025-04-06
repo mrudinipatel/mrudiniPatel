@@ -6,7 +6,7 @@
 
 ⭐ I'm actively looking for new-grad/entry level work. **Available to work immediately!**
 
-👩🏻‍💻 I hold 2 years of technical and experience through my past internships 💪🏼.
+👩🏻‍💻 I hold 2 years of software experience through my past internships 💪🏼.
 
 💼 Feel free to connect and reach out on LinkedIn!
 
